@@ -12,7 +12,8 @@ I am a developer who enjoys working across the stack—from low-level systems pr
 
 - 🔭 Currently exploring web application architecture
 - 🌱 Always learning and refining my craft
-- ⚡ Fun fact: I'm a passionate gamer who loves exploring virtual worlds.
+- ⚡ Fun fact: When I'm not coding, I'm exploring open-world RPGs or grinding ranked matches in my favorite games
+
 ---
 
 ## 🛠️ Tech Stack
@@ -36,8 +37,8 @@ I am a developer who enjoys working across the stack—from low-level systems pr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ifham22&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifham22&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ifham22&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifham22&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
 </div>
 
 ---
