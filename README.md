@@ -1,20 +1,18 @@
-
-# 👋 Hi, I'm Ifham
+# 👋 Welcome to my profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;C%2FC%2B%2B+%7C+Java+%7C+React;Building+scalable+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;C%2FC%2B%2B+%7C+Java+%7C+React;Building+web+applications" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate developer who enjoys working across the entire stack—from low-level systems programming in **C/C++** and **Java** to building dynamic user interfaces with **React** and robust backends with **Node.js**.
+I am a developer who enjoys working across the stack—from low-level systems programming in **C/C++** and **Java** to building interactive user interfaces with **React** and robust backends with **Node.js**.
 
-- 🔭 Currently exploring full-stack application architecture
+- 🔭 Currently exploring web application architecture
 - 🌱 Always learning and refining my craft
-- ⚡ Fun fact: I love solving algorithmic challenges
-
+- ⚡ Fun fact: I'm a passionate gamer who loves exploring virtual worlds.
 ---
 
 ## 🛠️ Tech Stack
@@ -47,8 +45,8 @@ I am a passionate developer who enjoys working across the entire stack—from lo
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ifham22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifham22) <!-- Replace with your actual link -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ifham22) <!-- Replace with your actual link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifhambinhossain)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_the_hossain)
 
 ---
 
