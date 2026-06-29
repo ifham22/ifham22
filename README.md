@@ -8,11 +8,12 @@
 
 ## 🚀 About Me
 
-I am a developer who enjoys working across the stack—from low-level systems programming in **C/C++** and **Java** to building interactive user interfaces with **React** and robust backends with **Node.js**.
+I am a developer who enjoys working across the stack—from low-level systems programming in **C/C++** and **Java** to building interactive user interfaces with **React** and robust backends with **Node.js** and **PostgreSQL**.
 
-- 🔭 Currently exploring web application architecture
+- 🔭 Currently exploring web application architecture and database design
 - 🌱 Always learning and refining my craft
-- ⚡ Fun fact:  I'm a passionate gamer who loves exploring virtual worlds.
+- ⚡ Fun fact: When I'm not coding, I'm exploring open-world RPGs or grinding ranked matches in my favorite games
+
 ---
 
 ## 🛠️ Tech Stack
@@ -30,6 +31,9 @@ I am a developer who enjoys working across the stack—from low-level systems pr
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
