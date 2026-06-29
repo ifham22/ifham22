@@ -1,75 +1,64 @@
-## Hi there 👋
-
-<!--
-**ifham22/ifham22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!-- Header / Dojo Introduction -->
+<!-- Header: The Ghost of Tsushima Dojo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=E63946&center=true&vCenter=true&width=700&lines=%E5%BF%8D+Kon'nichiwa!+I'm+Ifham+22;Full-Stack+Shinobi;Master+of+C%2C+C%2B%2B+%26+Java;React+%26+Node.js+Shadow+Warrior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=A61B2B&center=true&vCenter=true&width=750&lines=%E5%AF%BE%E9%A6%AC+%7C+Ghost+of+Ifham;Samurai+of+C%2C+C%2B%2B+%26+Java;The+Ghost+of+React+%26+Node.js;Let+the+Wind+Guide+My+Keystrokes" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/status-stealth%20mode-crimson?style=for-the-badge&logo=github&labelColor=black" />
-  <img src="https://img.shields.io/badge/rank-Chunin%20(Code)-gold?style=for-the-badge&logo=codefactor&labelColor=black" />
-  <img src="https://img.shields.io/badge/Clan-22nd%20Shadow%20Legacy-red?style=for-the-badge&logo=feathub&labelColor=black" />
+  <img src="https://img.shields.io/badge/Clan-Sakai%20Legacy-crimson?style=for-the-badge&logo=feathub&labelColor=0d0f12" />
+  <img src="https://img.shields.io/badge/Title-The%20Ghost-gold?style=for-the-badge&logo=ghostery&labelColor=0d0f12&color=d4a373" />
+  <img src="https://img.shields.io/badge/Path-Wind%20Guided-blue?style=for-the-badge&logo=cloudflare&labelColor=0d0f12&color=4a7c8c" />
 </div>
 
 ---
 
-### 🥷 About the Dojo
-> *"The ninja star must be sharp, but the mind must be sharper."*
+### 🍃 The Way of the Warrior
+> *"The wind does not break the bamboo. It bends, adapts, and survives."*
 
-I am Ifham, a disciplined developer who bridges **low-level power** (C/C++/Java) with **modern web agility** (React/Node). I architect scalable, high-performance applications from the shadows. 
-Welcome to my Code Dojo.
+I am Ifham. I walk the dual path of the **Samurai** and the **Ghost**. 
+On Tsushima (and in my code dojo), I master the rigid, precise strike of **C/C++/Java** (The Samurai Sword) alongside the fluid, unpredictable adaptability of **React & Node.js** (The Ghost's Tactics). I forge code that is both honorable in structure and ruthless in performance.
 
 ---
 
-### ⚔️ Ninja Arsenal
+### ⚔️ The Ghost's Arsenal
 
-| **The Foundation** | **Frontend Arsenal** | **Backend Shadow** |
+| **The Samurai Foundation** | **The Ghost's Frontline** | **The Shadow Arsenal** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=c,cpp,java" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=nodejs" /> |
-| *Memory Management* | *Interactive UX* | *Server-Side Logic* |
+| *Honor & Precision* | *Adaptability & Stealth* | *Server-Side Shadows* |
 
 ---
 
-### 📊 Shinobi Statistics
+### 🏯 Chronicle of Battles (GitHub Stats)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifham22&show_icons=true&theme=dark&title_color=e63946&text_color=e6e6e6&icon_color=f4a261&border_color=333333&bg_color=0a0a0a" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifham22&layout=compact&theme=dark&title_color=e63946&text_color=e6e6e6&border_color=333333&bg_color=0a0a0a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifham22&show_icons=true&theme=dark&title_color=a61b2b&text_color=d4a373&icon_color=4a7c8c&border_color=2a2d32&bg_color=0d0f12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifham22&layout=compact&theme=dark&title_color=a61b2b&text_color=d4a373&border_color=2a2d32&bg_color=0d0f12" />
 </div>
 
 ---
 
-### 🗡️ Featured Missions (Repositories)
+### 🗡️ Legendary Quests (Featured Projects)
 
-- 🔥 **Project Shinobi:** *A real-time stealth multiplayer game.* (Coming soon)
-- ⚡ **React Kunai:** *A lightweight state management library.* (Coming soon)
-- 🖥️ **Node Guardian:** *Secure JWT authentication middleware.* (Coming soon)
-- 🧩 **Java Scrolls:** *Algorithms & Data Structures visualized.* (Coming soon)
+- 🏮 **Jin's Arsenal:** *A full-stack inventory system for Ghost weapons.*
+- 🎋 **Bamboo Strike:** *A real-time multiplayer duel game (React + Node).*
+- 🦊 **Inari's Blessing:** *A machine learning recommendation engine (Java/C++).*
+- 🌊 **Guiding Wind:** *A dynamic routing library inspired by the game's navigation.*
 
 ---
 
-### 🌙 Nightfall Footer
+### 🌅 Haiku of the Nightfall
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code%20Dojo-Open%20for%20Missions-crimson?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Stealth-Mode%20Active-gold?style=flat-square&labelColor=black" />
+  <i>
+    "Leaves fall like my code, <br>
+    The wind guides the silent blade, <br>
+    Honor in the stack."
+  </i>
   <br><br>
-  <i>"A ninja does not run from danger, he calculates the risk."</i>
+  <img src="https://img.shields.io/badge/Stealth-Mode%20Active-gold?style=flat-square&labelColor=0d0f12&color=d4a373" />
+  <img src="https://img.shields.io/badge/Honor-Intact-crimson?style=flat-square&labelColor=0d0f12&color=a61b2b" />
   <br><br>
-  <code>—— 影 (Kage) ——</code>
+  <code>—— 対馬 (Tsushima) ——</code>
   <br>
-  <sub>© 2026 | Shadow Stack Developer | ifham22</sub>
+  <sub>© 2026 | The Ghost of ifham22</sub>
 </div>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
